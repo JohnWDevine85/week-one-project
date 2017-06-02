@@ -1,0 +1,128 @@
+.nav_bar{
+  background-color: #FFFFFF;
+  color: #2B2F26;
+}
+.nav_anchors{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  list-style: none;
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+
+}
+.nav_anchors li{
+  padding:10px;
+}
+.main_content_box{
+  background-color: #F2F1E8;
+}
+.content_boxes_row_1{
+  height: 310px;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: .8rem;
+}
+.content_boxes_row_2{
+  height: 200px;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: .8rem;
+}
+.box_text{
+  background-color: #131511;
+  color: #F2F1E8;
+  padding: .2rem;
+  margin: 5px;
+  font-family: 'Merriweather', serif;
+  font-size: 14px;
+}
+.Headline{
+  background-color: #F2F1E8;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  font-size: 17px;
+  font-family: 'Merriweather', serif;
+}
+.subheader{
+  margin
+}
+.footer_box{
+  background-color: #131511;
+  color: #F2F1E8;
+  padding: 2px;
+}
+.box_image{
+  margin: .4rem;
+  display: flex;
+  align-items: flex-end;
+}
+#image_1 {
+  width: 60%;
+  height: 100%;
+  background-image: url("images/product-1.jpg");
+  background-clip: content-box;
+  background-size: cover;
+}
+#image_2 {
+  width: 20%;
+  height: 100%;
+  background-image: url("images/product-2.jpg");
+  background-clip: content-box;
+  background-size: cover;
+}
+#image_3 {
+  width: 20%;
+  height: 100%;
+  background-image: url("images/product-3.jpg");
+  background-clip: content-box;
+  background-size: cover;
+}
+#image_4 {
+  width: 20%;
+height: 100%;
+background-image: url("images/product-4.jpg");
+background-clip: content-box;
+background-size: cover;
+}
+#image_5 {
+  width: 20%;
+  height: 100%;
+  background-image: url("images/product-5.jpg");
+  background-clip: content-box;
+  background-size: cover;
+}
+#image_6 {
+  width: 40%;
+  height: 100%;
+  background-image: url("images/product-6.jpg");
+  background-clip: content-box;
+  background-size: cover;
+}
+#image_7 {
+  width: 20%;
+  height: 100%;
+  background-image: url("images/product-7.jpg");
+  background-clip: content-box;
+  background-size: cover;
+}
+
+/* Background: #F2F1E8
+Text: #131511
+Inline Link: #968772
+Inline Link (Hover): #967343
+Navigation Background: #FFFFFF
+Navigation Text: #2B2F26
+Navigation Text (Hover): #CD5D67
+Navigation Text (Active) #968772
+Button Background: #968772
+Button Background (Hover): #967343
+Button Text: #F2F1E8
+Button Text (Hover): #FFFFFF
+Input Border Bottom: #968772
+Input Border Bottom (Focus): #967343
+font-family: 'Merriweather', serif;
+font-family: 'Roboto', sans-serif;
+/*
