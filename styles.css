@@ -11,6 +11,9 @@
   font-family: 'Roboto', sans-serif;
 
 }
+nav a:hover{
+  color: #CD5D67
+}
 .nav_anchors li{
   padding:10px;
 }
@@ -52,7 +55,7 @@
 .footer_box{
   background-color: #131511;
   color: #F2F1E8;
-  padding: 2px;
+  padding: 12px;
 }
 .box_image{
   margin: .4rem;
